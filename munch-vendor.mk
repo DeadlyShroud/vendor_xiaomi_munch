@@ -203,6 +203,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     audio.primary.munch \
     liba2dpoffload_munch \
+    libacdbloader \
     libaudio_log_utils \
     libaudioroute_ext \
     libresampler \

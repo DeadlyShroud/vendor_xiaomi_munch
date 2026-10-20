@@ -561,7 +561,6 @@ PRODUCT_PACKAGES += \
     libsnsdiaglog \
     libssc \
     libssc_default_listener \
-    libssccalapi \
     libst_soft_isp_calc_exposure_shared \
     libst_soft_isp_shared \
     libswregistrationalgo \

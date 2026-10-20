@@ -537,7 +537,6 @@ PRODUCT_PACKAGES += \
     libmulticam_image_optical_zoom \
     libmulticam_optical_zoom_control \
     libmulticam_video_optical_zoom \
-    libnanopb \
     libnotifyaudiohal \
     libofflinelog \
     libos \
